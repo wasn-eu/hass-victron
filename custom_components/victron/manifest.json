@@ -6,11 +6,11 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/wasn-eu/hass-victron",
+  "documentation": "https://github.com/sfstar/hass-victron",
   "homekit": {},
   "integration_type": "hub",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/wasn-eu/hass-victron/issues",
+  "issue_tracker": "https://github.com/sfstar/hass-victron/issues",
   "requirements": [
     "pymodbus==3.1.1"
   ],
